@@ -12,5 +12,6 @@ An automated candidate filtering and resume evaluation application using **Retri
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
-   cd YOUR_REPO_NAME
+   git clone [https://github.com/bandayfarhan/ai-resume-screener.git]
+   (https://github.com/bandayfarhan/ai-resume-screener.git)
+   cd ai-resume-screener
